@@ -1,7 +1,7 @@
 # Improved Food Festival
 
 ## User Story
-Allow foodies thoughout the world to regist for different food events, by tickets, and additional details. This app is a PWA so users can use it if they are experiance a poor connection or even download it to their mobile device.
+Allow foodies though out the world to register for different food events, by tickets, and additional details. This app is a PWA so users can use it if they are experience a poor connection or even download it to their mobile device.
 
 ## Used
 - Webpack 
